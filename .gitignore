@@ -1,0 +1,7 @@
+.venv
+.git
+venv
+.idea
+.DS_Store
+.streamlit
+src/__pycache__
